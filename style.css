@@ -1,0 +1,10 @@
+body .btnDiv {
+  text-align: center;
+}
+body .btnDiv .btn {
+  height: 70px;
+  width: 250px;
+  text-align: center;
+  border: 1px solid black;
+  margin: 20px;
+}/*# sourceMappingURL=style.css.map */
